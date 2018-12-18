@@ -1,7 +1,8 @@
 This is the first line.
 
 This should be middle line.
-
-
-
+2
+2
+2
 This should be really last line!
+1
